@@ -87,28 +87,28 @@ h1{
 }
 
 .symbol-green{
-border: 1px solid greenyellow;
-border-color: greenyellow;
-border-radius: 50%;
-width: 50%;
-height: 50%;
-}
-
-.symbol-green{
     border: 1px solid greenyellow;
     border-color: greenyellow;
     border-radius: 50%;
-    width: 50%;
-    height: 50%;
-    }
+    width: 50px;
+    height: 50px;
+}
+
+.symbol-red{
+    border: 1px solid red;
+    border-color: red;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
 
 .label-section-blue{
-font-size: smaller;
-margin-left: 10px;
-border-radius: 15px;
-background-color: #45abea;
-padding: 5px;
-color: white;
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #45abea;
+    padding: 5px;
+    color: white;
 }
 
 .label-section-violet{
@@ -118,7 +118,46 @@ color: white;
     background-color: #9c72e4;
     padding: 5px;
     color: white;
-    }
+}
+
+.label-section-coldgreen{
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #64c0a9;
+    padding: 5px;
+    color: white;
+}
+
+.label-section-yellow{
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #f29e33;
+    padding: 5px;
+    color: white;
+}
+
+.label-section-pink{
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #d863a1;
+    padding: 5px;
+    color: white;
+}
+
+.label-section-warmgreen{
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #b0c926;
+    padding: 5px;
+    color: white;
+}
+
+
+
     
 
 
