@@ -11,5 +11,20 @@ body{
     font-family: Arial;
 }
 
+/* HEADER */
+header{
+    background-color: white;
+}
+
+h1{
+    display: inline;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+#logo{
+    vertical-align: middle;
+    padding: 10px;
+}
 
 
