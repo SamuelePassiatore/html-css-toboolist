@@ -31,7 +31,9 @@ h1{
 .first-container{
     width: 50%;
     background-color: white;
-    margin: 20px auto;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     height: 50px;
@@ -58,5 +60,66 @@ h1{
     color: grey;
     border-color: grey;
 }
+
+.second-container{
+    width: 50%;
+    background-color: white;
+    margin: 2px auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.section{
+    padding: 40px;
+}
+
+.title-section{
+    margin-bottom: 15px;
+}
+
+.arrow{
+    font-size: small;
+    vertical-align: middle;
+}
+
+.content-section{
+    margin: 10px;
+}
+
+.symbol-green{
+border: 1px solid greenyellow;
+border-color: greenyellow;
+border-radius: 50%;
+width: 50%;
+height: 50%;
+}
+
+.symbol-green{
+    border: 1px solid greenyellow;
+    border-color: greenyellow;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    }
+
+.label-section-blue{
+font-size: smaller;
+margin-left: 10px;
+border-radius: 15px;
+background-color: #45abea;
+padding: 5px;
+color: white;
+}
+
+.label-section-violet{
+    font-size: smaller;
+    margin-left: 10px;
+    border-radius: 15px;
+    background-color: #9c72e4;
+    padding: 5px;
+    color: white;
+    }
+    
+
 
 
